@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.form-container {
+  margin: 20px;
+}
+
+.error {
+  color: red;
+}
+
+.table-container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
